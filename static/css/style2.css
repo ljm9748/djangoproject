@@ -1,0 +1,68 @@
+html body {
+    margin: 0;
+    height: 2000px;
+}
+a{
+    text-decoration:none;
+}
+.container{
+    
+    font-family: Roboto; 
+    background-color : #F6F4DA; text-align: center; height:100px;
+}
+.secondcontainer{
+    padding: 10px 200px 10px 200px;
+    background-color: #DF9496; text-align: center; height : 700px;
+}
+
+.thirdcontainer{
+     background-color: #BBD9EE; text-align: center; height : 700px;
+}
+
+#contactme{
+    font-family: Roboto; 
+    color : white;
+    background-color : #b90e58; text-align: center;
+    padding: 10px;
+    border-radius: 12px;
+
+}
+
+#face-book{
+
+    margin: 10px 20px; 
+    font-family: 'Roboto Mono', monospace;
+    color : #b90e58;
+    text-align: center;
+    padding: 10px;
+    border-radius: 12px;
+
+}
+#copywrite{
+
+
+    font-family: Roboto; 
+    color : rgb(239, 235, 240);
+    text-align: center;
+    padding: 10px;
+
+
+}
+
+
+#first{
+    color : #727B84 ;
+}
+#first2{
+    color : #fff8cd ;
+    font-family: 'Roboto Mono', monospace;
+}
+#second{
+    color : black;
+}
+#center {
+    text-align: center;
+}
+#profilepic {
+    height : 200px; border-radius : 50%;
+}
